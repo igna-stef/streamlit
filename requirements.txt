@@ -1,2 +1,7 @@
 streamlit
-scikit-learn==1.5.2
+numpy
+pandas
+scikit-learn
+matplotlib
+tensorflow
+duckdb
